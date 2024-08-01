@@ -131,15 +131,15 @@ nav {
 }
 
 .img-1 {
-    background-image: url(/asset/japan.jpg);
+    background-image: url(.../asset/japan.jpg);
 }
 
 .img-2 {
-    background-image: url(/asset/thai.jpg);
+    background-image: url(.../asset/thai.jpg);
 }
 
 .img-3 {
-    background-image: url(/asset/australia.jpg);
+    background-image: url(.../asset/australia.jpg);
 }
 
 .main-form {
